@@ -1,5 +1,5 @@
-title: My amazing datathon
-description: A datathon that will stimulate datasciene superpowers in all participants
+title: AI TALENT HUB && Nexign
+description: AI TALENT HUB && Nexign datathon
 image: logo.jpg
 has_registration: True
 html:
@@ -29,8 +29,8 @@ leaderboard:
             label: Results
             rank: 1
     columns:
-        mae:
+        F1:
             leaderboard: *RESULTS
-            label: mae
+            label: F1
             rank: 1
             numeric_format: 1
